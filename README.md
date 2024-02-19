@@ -44,7 +44,7 @@
                 <div class="project" style="background-image: url(images/ola_project_image.jpg);">
                     <div class="desc">
                         <div class="con">
-                            <h3><a href="https://github.com/RanjanAniket/Aniket-s_portfolio/blob/main/Capstone%20Project%20OLA.sql" target="_blank" rel="noreferrer">OLA DATA SQL Analysis</a></h3>
+                            <h3><a href="https://github.com/nehaglobal91/Neha-s-portfolio-/blob/main/Capstone%20Project%20OLA.sql" target="_blank" rel="noreferrer">OLA DATA SQL Analysis</a></h3>
                             <span>Explore Project, a comprehensive SQL analysis focusing on OLA ride-hailing data. This project delves into various aspects such as trip analytics, driver behavior, and customer interactions, providing valuable insights for optimizing OLA's operational strategies.</span>
                             <p class="icon">
                                 <span></span>
