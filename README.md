@@ -28,7 +28,7 @@
                 <div class="project" style="background-image: url(images/img-4.jpg);">
                     <div class="desc">
                         <div class="con">
-                            <h3><a href="https://github.com/RanjanAniket/Aniket-s_portfolio/blob/main/WALMART%20SALES%20ANALYSIS.ipynb" target="_blank" rel="noreferrer">WALMART SALES ANALYSIS</a></h3>
+                            <h3><a href="https://github.com/nehaglobal91/Neha-s-portfolio-/blob/main/WALMART%20SALES%20ANALYSIS.ipynb" target="_blank" rel="noreferrer">WALMART SALES ANALYSIS</a></h3>
                             <span>Explore our Walmart Sales Analysis project, a detailed examination of sales trends, patterns, and factors influencing performance. This project, available on GitHub, utilizes advanced data analysis techniques to provide valuable insights for strategic decision-making within the retail domain.</span>
                             <p class="icon">
                                 <span></span>
