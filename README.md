@@ -95,8 +95,8 @@ COVID-19 Trend Analysis: Utilizing pandas for data aggregation, plotly for inter
                 <div class="project" style="background-image: url(images/img-3.jpg);">
                     <div class="desc">
                         <div class="con">
-                            <h3><a href="https://github.com/nehaglobal91/Neha-s-portfolio-/blob/main/Credit%20Card%20Fraud.ipynb" target="_blank" rel="noreferrer">Credit Card Fraud Detction</a></h3>
-                            <span>Dive into our Name Analysis project, a comprehensive exploration of patterns, demographics, and cultural influences associated with personal names. This project, available on GitHub, utilizes data-driven methodologies and visualization techniques to uncover insights into the fascinating world of names.</span>
+                            <h3><a href="https://github.com/nehaglobal91/Neha-s-portfolio-/blob/main/Credit%20Card%20Fraud.ipynb" target="_blank" rel="noreferrer">Credit Card Fraud Detection</a></h3>
+                            <span>Dive into our Credit Card Fraud detection System: Powered by advanced machine learning algorithms, our system utilizes innovative techniques such as Random Forest,Naive Bayes and many more to predict fraudulent transactions accurately. By analyzing data,trends, and various influencing factors, our dynamic model continually refines its predictions,to make sure the transactions are safe.</span>
                             <p class="icon">
                                 <span></span>
                                 <span></span>
