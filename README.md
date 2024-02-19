@@ -60,8 +60,9 @@
                 <div class="project" style="background-image: url(images/img-1.jpg);">
                     <div class="desc">
                         <div class="con">
-                            <h3><a href="https://github.com/RanjanAniket/Aniket-s_portfolio/blob/main/Netflix%20Recommender%20%20System%20with%20SVD%20.ipynb" target="_blank" rel="noreferrer">Netflix Recommender System with SVD</a></h3>
-                            <span>"Netflix Recommender System: Engineered with SVD, our recommender system employs advanced matrix factorization to understand user preferences and movie characteristics. This dynamic model continually refines its understanding, offering personalized content recommendations for an enhanced streaming experience."</span>
+                            <h3><a href="https://github.com/nehaglobal91/Neha-s-portfolio-/blob/main/Flight%20price.ipynb" target="_blank" rel="noreferrer">Flight Price Prediction</a></h3>
+                            <span>
+"Introducing our Flight Price Prediction System: Powered by advanced machine learning algorithms, our system utilizes innovative techniques such as regression analysis and time series forecasting to predict flight prices accurately. By analyzing historical data, airline trends, and various influencing factors, our dynamic model continually refines its predictions, ensuring travelers receive personalized and reliable price forecasts for an optimized booking experience."</span>
                             <p class="icon">
                                 <span></span>
                                 <span></span>
@@ -71,13 +72,14 @@
                     </div>
                 </div>
             </div>
-            <!-- Fourth project (Customer Churn Analysis) with offset -->
+            
             <div class="col-md-4 col-md-offset-4 animate-box" data-animate-effect="fadeInLeft">
                 <div class="project" style="background-image: url(images/img-2.jpg);">
                     <div class="desc">
                         <div class="con">
-                            <h3><a href="https://github.com/RanjanAniket/Aniket-s_portfolio/blob/main/Customer%20Churn.ipynb" target="_blank" rel="noreferrer">Customer Churn Analysis</a></h3>
-                            <span>Explore our Customer Churn Analysis project, designed to uncover insights and strategies for reducing customer attrition. Leveraging Jupyter Notebook, the project delves into exploratory data analysis, feature engineering, and the application of machine learning techniques.</span>
+                            <h3><a href="https://github.com/nehaglobal91/Neha-s-portfolio-/blob/main/FbProphet_Covid.ipynb" target="_blank" rel="noreferrer">Covid-19 Analysis</a></h3>
+                            <span>
+COVID-19 Trend Analysis: Utilizing pandas for data aggregation, plotly for interactive visualizations, and Facebook's Prophet library for time series modeling, our project examines infection and recovery trends. We analyze and visualize COVID-19 cases globally, offering insights and predictions for future case counts based on current trends.</span>
                             <p class="icon">
                                 <span></span>
                                 <span></span>
@@ -87,12 +89,12 @@
                     </div>
                 </div>
             </div>
-            <!-- Fifth project (Name Analysis) -->
+            <!-- Fifth project -->
             <div class="col-md-4 col-md-offset-0 animate-box" data-animate-effect="fadeInLeft">
                 <div class="project" style="background-image: url(images/img-3.jpg);">
                     <div class="desc">
                         <div class="con">
-                            <h3><a href="https://github.com/RanjanAniket/Aniket-s_portfolio/blob/main/NAME%20ANALYSIS.ipynb" target="_blank" rel="noreferrer">Name Analysis</a></h3>
+                            <h3><a href="https://github.com/nehaglobal91/Neha-s-portfolio-/blob/main/Credit%20Card%20Fraud.ipynb" target="_blank" rel="noreferrer">Credit Card Fraud Detction</a></h3>
                             <span>Dive into our Name Analysis project, a comprehensive exploration of patterns, demographics, and cultural influences associated with personal names. This project, available on GitHub, utilizes data-driven methodologies and visualization techniques to uncover insights into the fascinating world of names.</span>
                             <p class="icon">
                                 <span></span>
