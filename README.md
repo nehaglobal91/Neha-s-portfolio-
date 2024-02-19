@@ -72,12 +72,13 @@
                     </div>
                 </div>
             </div>
-            
-            <div class="col-md-4 col-md-offset-4 animate-box" data-animate-effect="fadeInLeft">
-                <div class="project" style="background-image: url(images/img-2.jpg);">
+        </div>         
+           <!-- Fourth project (Netflix Recommender System) -->
+            <div class="col-md-4 col-md-offset-0 animate-box" data-animate-effect="fadeInLeft">
+                <div class="project" style="background-image: url(images/img-1.jpg);">
                     <div class="desc">
                         <div class="con">
-                            <h3><a href="https://github.com/nehaglobal91/Neha-s-portfolio-/blob/main/FbProphet_Covid.ipynb" target="_blank" rel="noreferrer">Covid-19 Analysis</a></h3>
+                            <h3><a href=""https://github.com/nehaglobal91/Neha-s-portfolio-/blob/main/FbProphet_Covid.ipynb" target="_blank" rel="noreferrer">Covid-19 Analysis</a></h3>
                             <span>
 COVID-19 Trend Analysis: Utilizing pandas for data aggregation, plotly for interactive visualizations, and Facebook's Prophet library for time series modeling, our project examines infection and recovery trends. We analyze and visualize COVID-19 cases globally, offering insights and predictions for future case counts based on current trends.</span>
                             <p class="icon">
