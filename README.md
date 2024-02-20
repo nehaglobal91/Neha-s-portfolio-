@@ -107,6 +107,22 @@ COVID-19 Trend Analysis: Utilizing pandas for data aggregation, plotly for inter
                 </div>
             </div>
             <!-- Add more projects as needed -->
+         <!-- sixth project -->
+            <div class="col-md-4 col-md-offset-0 animate-box" data-animate-effect="fadeInLeft">
+                <div class="project" style="background-image: url(images/img-3.jpg);">
+                    <div class="desc">
+                        <div class="con">
+                            <h3><a href="https://github.com/nehaglobal91/Neha-s-portfolio-/blob/main/pwc%20call%20centre%20trend.pdf" target="_blank" rel="noreferrer">Power BI Project: Call Centre Trends Analysis</a></h3>
+                            <span>This Power BI project aims to analyze a comprehensive call center dataset with features including Call ID, Agent, Date, Time, Topic, Answered (Y/N), Resolved, Speed of Answer (seconds), Avg Talk Duration, and Satisfaction Rating. The goal is to gain valuable insights into call center performance, customer satisfaction, and emerging trends.</span>
+                            <p class="icon">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </section>
